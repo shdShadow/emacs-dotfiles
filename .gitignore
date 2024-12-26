@@ -1,0 +1,9 @@
+eln-cache/
+lisp/
+elpa/
+transient/
+snippets/
+auto-save-list/
+url/
+.cache/
+

@@ -1,0 +1,1 @@
+("~/coding/cantu_backend/" "~/.emacs.d/" "~/coding/temp/")
