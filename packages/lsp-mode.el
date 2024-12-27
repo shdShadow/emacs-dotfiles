@@ -7,6 +7,8 @@
   (setq lsp-rust-analyzer-server-command '("rust-analyzer"))
   (lsp-install-server 'rust-analyzer)
   (setq lsp-install-server nil)
+  (setq lsp-rust-analyzer-server-command
+        '("emacs-lsp-booster" "--" "rust-analyzer"))
   )
 
 

@@ -24,6 +24,3 @@
 (add-hook 'eglot-managed-mode-hook
           (lambda ()
             (company-mode)))
-;; Disable company-box-mode
-(with-eval-after-load 'company
-  (company-box-mode -1))
